@@ -17,45 +17,37 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
 
-- title: Super University
+- title: Penn State University
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2019 - Present
+  subtitle: B.S. Computer Science & B.S. Economics
+  timeline-side: right
+  tags:
+    - tag: CS
+    - tag: ECON
+
+- title: DS/Algorithm Courses
+  title-url: https://example.com/
+  date: Sep 2021 - Present
+  subtitle: Grader/Learning Assistant
+  description1: • Provided administrative and grading support to various faculties.
+  description2: • Assisted professors in answering questions, resolving issues, and grading weekly homework assignments for 350+ students.
+  tags:
+    - tag: Data Structure
+    - tag: Algorithm
+    - tag: LA/Grader
   timeline-side: left
 
-- title: Facebook
+- title: Peking University Graduate School
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+  date: July 2020 - Sep 2020
+  subtitle: Research Intern for Professor Kai Lei 
+  tags: 
+    - tag: HTML
+    - tag: C
+    - tag: Blockchain
+  description1: • Assisted team in structuring and building a demo (C/HTML) of a house rental platform incorporating Blockchain and IoT (Internet of Things) technology to verify and store transaction information.
+  description2: • Drafted a 78-page Business Plan detailing the market analysis, product description, competitor’s analysis, sales channels, financial forecasts, and risk analysis for the Blockchain + IoT rental platform.
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left

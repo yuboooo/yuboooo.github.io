@@ -24,7 +24,11 @@
               </span>
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
-              {{event.subtitle}}
+              <div>{{event.subtitle}}</div>
+              <br>
+              <div>{{event.description1}}</div>
+              <br>
+              <div>{{event.description2}}</div>
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
@@ -36,7 +40,7 @@
           </div>
         </li>
       {% endif %}
-
+ 
       {% if event.timeline-side == 'right' %}
         <li>
           <div class="direction-r">
@@ -52,7 +56,11 @@
               </span>
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
-              {{event.subtitle}}
+              <div>{{event.subtitle}}</div>
+              <br>
+              <div>{{event.description1}}</div>
+              <br>
+              <div>{{event.description2}}</div>
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
