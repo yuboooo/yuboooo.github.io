@@ -22,6 +22,7 @@ email: yfj5098@psu.edu
 # > twitter_username:
 github_username: yuboooo
 linkedin_username: yubo-jing-3b2108224/
+blog: yubo
 
 
 # ABOUT ME SECTION
@@ -30,9 +31,12 @@ linkedin_username: yubo-jing-3b2108224/
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Who Am I
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello! I’m Yubo Jing, a Senior at Penn State University double majoring in Computer Science and Economics. I’m passionate about creating usable projects from what I am learning, and I’m looking for a summer internship in 2023 related to Software Engineering, Data Analytics, or AI/Machine Learning.
+about_me_description1: 👋 Hello! I’m Yubo Jing, a Senior at Penn State University.
+about_me_description2: 📖 I'm double majoring in Computer Science and Economics. 
+about_me_description3: 💻 I’m passionate about creating usable projects from what I am learning
+about_me_description4: 💼 I’m looking for a summer internship in 2023 related to Software Engineering, Data Analytics, or AI/Machine Learning.
 
 # SKILLS SECTION
 # show_skills_card:
