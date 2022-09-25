@@ -6,10 +6,14 @@
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
         </div>
-        <p class="project-desc">{{project.descr}}</p>
+        <p class="project-desc">
+          {{project.descr1}}<br><br>
+          {{project.descr2}}<br><br>
+          {{project.descr3}}<br>
+        </p>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+            Detail
           </a>
         {% endif %}
         {% if project.tags %}

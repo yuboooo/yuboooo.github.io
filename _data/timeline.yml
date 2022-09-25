@@ -23,7 +23,7 @@
   title-url: https://example.com/
   date: 2019 - Present
   subtitle: B.S. Computer Science & B.S. Economics
-  timeline-side: right
+  timeline-side: left
   tags:
     - tag: CS
     - tag: ECON
@@ -38,7 +38,7 @@
     - tag: Data Structure
     - tag: Algorithm
     - tag: LA/Grader
-  timeline-side: left
+  timeline-side: right
 
 - title: Peking University Graduate School
   title-url: https://example.com/
@@ -50,4 +50,4 @@
     - tag: Blockchain
   description1: • Assisted team in structuring and building a demo (C/HTML) of a house rental platform incorporating Blockchain and IoT (Internet of Things) technology to verify and store transaction information.
   description2: • Drafted a 78-page Business Plan detailing the market analysis, product description, competitor’s analysis, sales channels, financial forecasts, and risk analysis for the Blockchain + IoT rental platform.
-  timeline-side: right
+  timeline-side: left

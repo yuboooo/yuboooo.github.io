@@ -13,21 +13,38 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Artificial Intelligence and Virtual Reality for Smart Health
+  descr1: "• Improved an existing 3D cardiac myocyte model by using Blender with (1) myocyte view including ion channels, and select organelles, (2) membrane level view presenting the electrophysiology of a cardiac cell for users."
+  descr2: "• Combined 3D model with Unreal Engine (C++ and Blueprint Visual Scripting system) to build VR user interface for visualizing voltage, ion movement and action potential."
+  descr3: "• Implemented a user interface and some functions to gather raw data for analyzing the behavior of users to (1) improve user interaction with VR models, (2) promote self-regulated learning."
+  demo: https://drive.google.com/file/d/1USj8yAzXWnQ1JM1A7C9Qersd6QsAjAkS/view?usp=sharing
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Unreal Engine
+    - tag: Blender
+    - tag: Capstone Project
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Uni.Share – A Decentralized C2C Platform
+  descr1: "• A decentralized C2C APP self-driven by the university students community, where motivation comes from a true heart of love and a reward system consists of virtual currency and virtual stock."
+  descr2: "• Came up with the idea of a reasonable reward system consisting of virtual currency and virtual stock shares to motivate students to post information."
+  descr3: "• Collaborated with team members to complete the high-fidelity prototype with part of backend functions and presented a demo to sponsor companies within a limited 24-hour timeframe.             "
+  demo: https://devpost.com/software/uni-share
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Figma
+    - tag: Flutter
+    - tag: Hackathon Project
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Logistic Regression Cat Recognizer
+  descr1: "• Implemented a logistic regression classifier model, preprocessed the different types of images in the database, and trained the model to predict input images with output label cat or non-cat with 87.34% accuracy."
+  descr2: "• Revising the model to shallow Neural Networks to improve the prediction accuracy and potentially add more layers to the model in the future."
+  tags:
+    - tag: NumPy
+    - tag: DeepLearning
+    - tag: Personal Project
+
+- name: Blockchain mock-up
+  descr1: "• Implemented a simple mock-up of a Blockchain Server-Client node using JavaScript that could do some basic operations like mine, new-transaction, and view of chain on localhost."
+  descr2: "• Building the User Interface for the user to play with the Blockchain mock-up application to get a visualization understanding of the Blockchain.                       "
+  tags:
+    - tag: JavaScript
+    - tag: Blockchain
+    - tag: Personal Project
