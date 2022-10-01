@@ -24,9 +24,8 @@
     - tag: Capstone Project
 
 - name: Uni.Share – A Decentralized C2C Platform
-  descr1: "• A decentralized C2C APP self-driven by the university students community, where motivation comes from a true heart of love and a reward system consists of virtual currency and virtual stock."
-  descr2: "• Came up with the idea of a reasonable reward system consisting of virtual currency and virtual stock shares to motivate students to post information."
-  descr3: "• Collaborated with team members to complete the high-fidelity prototype with part of backend functions and presented a demo to sponsor companies within a limited 24-hour timeframe.             "
+  descr1: "• Developed the idea of a reasonable reward system consisting of virtual currency and virtual stock shares to motivate students to post information. "
+  descr2: "• Successfully led the team members to complete the high-fidelity prototype with part of backend functions and presented a demo to sponsor companies within a limited 24-hour timeframe. "
   demo: https://devpost.com/software/uni-share
   tags:
     - tag: Figma
@@ -35,7 +34,7 @@
 
 - name: Logistic Regression Cat Recognizer
   descr1: "• Implemented a logistic regression classifier model, preprocessed the different types of images in the database, and trained the model to predict input images with output label cat or non-cat with 87.34% accuracy."
-  descr2: "• Revising the model to shallow Neural Networks to improve the prediction accuracy and potentially add more layers to the model in the future."
+  descr2: "• Revise a model to shallow Neural Networks to improve the prediction accuracy and potentially add more layers to the model in the future. "
   tags:
     - tag: NumPy
     - tag: DeepLearning
@@ -43,7 +42,8 @@
 
 - name: Blockchain mock-up
   descr1: "• Implemented a simple mock-up of a Blockchain Server-Client node using JavaScript that could do some basic operations like mine, new-transaction, and view of chain on localhost."
-  descr2: "• Building the User Interface for the user to play with the Blockchain mock-up application to get a visualization understanding of the Blockchain.                       "
+  descr2: "• Design and build the User Interface for the Blockchain mock-up application for users to get a visualization understanding of the Blockchain. Deploy the Blockchain mock-up on a personal website hosted on AWS. "
+  descr3: "• Effectively collaborate with a team to design, develop, implement, test and deploy software solutions. Involved in project plan meetings to analyze and translate business requirements into the working model using agile methodology."
   tags:
     - tag: JavaScript
     - tag: Blockchain
