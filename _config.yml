@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Who Am I
 # about_me_description: This will be displayed under the title.
-about_me_description1: 👋 Hello! I’m Yubo Jing, a Senior at Penn State University, double majoring in Computer Science and Economics.
+about_me_description1: 👋 Hello! I’m Yubo Jing, a Junior at Penn State University, double majoring in Computer Science and Economics.
 about_me_description2: 📖 Dedicated and innovative Software Engineer with professional experience in designing, developing, and implementing responsive and customizable software applications.
 about_me_description3: 💻 Expertise in building models that translate points into business insights and developing machine learning models to solve real-world problems.
 about_me_description4: 💼 I’m looking for a summer internship in 2023 related to Software Engineering, Data Analytics, or AI/Machine Learning.
