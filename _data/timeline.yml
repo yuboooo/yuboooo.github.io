@@ -28,16 +28,40 @@
     - tag: CS
     - tag: ECON
 
+- title: College of Information Sciences and Technology, Penn State University
+  title-url: https://example.com/
+  date: Sep 2022 - Present
+  subtitle: Research Assistant
+  description1: •	Collaborate with 8 primary research teams and 1000+ contributing researchers on SCORE project that uses "several different approaches" to aggregate and assess research claims' credibility including replicability, robustness, and reproducibility.
+  description2: •	Perform social experiment to test the hybrid synthetic prediction market that combine artificial agents and human experts.
+  tags:
+    - tag: Machine Learning
+    - tag: Prediction Market
+    - tag: Human AI
+  timeline-side: left
+
+- title: The Foundations of Artificial Intelligence Research (FAIR) Lab
+  title-url: https://example.com/
+  date: Aug 2022 - Present
+  subtitle: Undergraduate Student Researcher
+  description1: •	Conducting research on multi-agent systems in artificial intelligence, studying matching algorithms with applications in healthcare resource allocation and gig economies. 
+  description2: •	Brainstorm with a team to design a mechanism and an algorithm using Python for solving fair allocations of chores that is envy-freeness-up-to-one and pareto optimal for food or packages delivery agents. 
+  tags:
+    - tag: Multi-agent System
+    - tag: AI
+    - tag: Fairness
+  timeline-side: right
+
 - title: DS/Algorithm Courses
   title-url: https://example.com/
   date: Sep 2021 - Present
-  subtitle: Grader/Learning Assistant
-  description1: • Provided administrative and grading support to various faculties.
-  description2: • Assisted professors in answering questions, resolving issues, and grading weekly homework assignments for 350+ students.
+  subtitle: Learning Assistant
+  description1: •	Provided administrative and grading support to various faculties. Assisted professors in answering questions, resolving issues, and grading weekly homework assignments for 350+ students.
+  description2: •	Held office hours to assist students comprehend algorithmic problems. Graded homework and lab reports, and organized quizzes. 
   tags:
     - tag: Data Structure
     - tag: Algorithm
-    - tag: LA/Grader
+    - tag: LA
   timeline-side: right
 
 - title: Peking University Graduate School
