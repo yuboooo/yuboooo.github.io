@@ -44,7 +44,7 @@
     {% assign filtered_repos = site.github.public_repositories | where:'fork', false | sort: sort_order | reverse %}
   {% else %}
     {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
-  {% endif %}
+  {% endif %} 
 
   <div class="projects-wrapper">
     {% for repository in filtered_repos %}
