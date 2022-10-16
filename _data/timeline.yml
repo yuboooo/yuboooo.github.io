@@ -44,8 +44,8 @@
   title-url: https://example.com/
   date: Aug 2022 - Present
   subtitle: Undergraduate Student Researcher
-  description1: •	Conducting research on multi-agent systems in artificial intelligence, studying matching algorithms with applications in healthcare resource allocation and gig economies. 
-  description2: •	Brainstorm with a team to design a mechanism and an algorithm using Python for solving fair allocations of chores that is envy-freeness-up-to-one and pareto optimal for food or packages delivery agents. 
+  description1: •	Conducting research on matching algorithms, fair division, and mechanism design for gig economies.
+  description2: •	Studying multi-agent systems in Economic AI, building explainable AI systems.
   tags:
     - tag: Multi-agent System
     - tag: AI
